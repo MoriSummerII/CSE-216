@@ -1,0 +1,7 @@
+2020.11.20  12:24:48  Client Created
+2020.11.20  12:24:57  Client Started
+2020.11.20  12:24:57  Auth code =  0
+2020.11.20  12:25:06  Client Connected to port: 11212
+2020.11.20  12:25:06  New account has been created.
+2020.11.20  12:25:18  Client Connected to port: 11212
+2020.11.20  12:25:18  New account has been created.

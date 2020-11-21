@@ -1,0 +1,8 @@
+Username Password Role
+ZheyanChen 12345 Ad
+TengHuang 12345 Ad
+XiangzhiLiu 12345 Ad
+XinhaoLiu 12345 Ad
+YixunMeng 12345 Ad
+A 12345 Customer
+B 12345 Customer

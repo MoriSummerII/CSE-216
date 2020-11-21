@@ -1,0 +1,14 @@
+2020.11.20  12:24:48  Server Created. Port: 11212
+2020.11.20  12:24:48  Server Started
+2020.11.20  12:24:48  Connecting -- waiting for client on port  11212
+2020.11.20  12:25:06  Accepted client on port  11212
+2020.11.20  12:25:06  Server Created. Port: 11212
+2020.11.20  12:25:06  Connecting -- waiting for client on port  11212
+2020.11.20  12:25:06  Server thread started.
+2020.11.20  12:25:06  Server thread connected to Client
+2020.11.20  12:25:06  Server received a message
+2020.11.20  12:25:18  Accepted client on port  11212
+2020.11.20  12:25:18  Server Created. Port: 11212
+2020.11.20  12:25:18  Server thread started.
+2020.11.20  12:25:18  Connecting -- waiting for client on port  11212
+2020.11.20  12:25:18  Server thread connected to Client
